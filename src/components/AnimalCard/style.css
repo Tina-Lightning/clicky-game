@@ -1,0 +1,17 @@
+.card {
+    background: #fff;
+    border-radius: 4px;
+    margin: 1rem;
+    position: relative;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+
+  .card:hover {
+    box-shadow: 0 1px 2px #999, 0 1px 2px #999;
+  }
+
+   img {
+     width: 150px;
+     height: 150px;
+   }

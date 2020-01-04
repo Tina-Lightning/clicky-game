@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
+
+.footer-text {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #3d3d3d;
+    font-size: 85%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer {
+    background-color: #B7D6DB;
+    border-radius: 4px;
+    margin-top:15px;
+  }

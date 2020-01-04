@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "alligator",
+      "image": "./img/alligator.jpg"
+    },
+    {
+        "id": 2,
+        "name": "anteater",
+        "image": "./img/anteater.jpg"
+      },
+      {
+        "id": 3,
+        "name": "brown-bear",
+        "image": "./img/brown-bear.jpg"
+      },
+      {
+        "id": 4,
+        "name": "dinosaur",
+        "image": "./img/dinosaur.jpg"
+      },
+      {
+        "id": 5,
+        "name": "dog",
+        "image": "./img/dog.jpg"
+      },
+      {
+        "id": 6,
+        "name": "dolphin",
+        "image": "./img/dolphin.jpg"
+      },
+      {
+        "id": 7,
+        "name": "elephant",
+        "image": "./img/elephant.jpg"
+      },
+      {
+        "id": 8,
+        "name": "fennec-fox",
+        "image": "./img/fennec-fox.jpg"
+      },
+      {
+        "id": 9,
+        "name": "goldfish",
+        "image": "./img/goldfish.jpg"
+      },
+      {
+        "id": 10,
+        "name": "gopher",
+        "image": "./img/gopher.jpg"
+      },
+      {
+        "id": 11,
+        "name": "hamster",
+        "image": "./img/hamster.jpg"
+      },
+      {
+        "id": 12,
+        "name": "hedgehog",
+        "image": "./img/hedgehog.jpg"
+      },
+      {
+        "id": 13,
+        "name": "orca",
+        "image": "./img/orca.jpg"
+      },
+      {
+        "id": 14,
+        "name": "penguin",
+        "image": "./img/penguin.jpg"
+      },
+      {
+        "id": 15,
+        "name": "pig",
+        "image": "./img/pig.jpg"
+      },
+      {
+        "id": 16,
+        "name": "rabbit",
+        "image": "./img/rabbit.jpg"
+      },
+      {
+        "id": 17,
+        "name": "raccoon",
+        "image": "./img/raccoon.jpg"
+      },
+      {
+        "id": 18,
+        "name": "rhino",
+        "image": "./img/rhino.jpg"
+      },
+      {
+        "id": 19,
+        "name": "sloth",
+        "image": "./img/sloth.jpg"
+      },
+      {
+        "id": 20,
+        "name": "snake",
+        "image": "./img/snake.jpg"
+      }
+  ]
+  
