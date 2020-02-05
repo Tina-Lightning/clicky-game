@@ -10,7 +10,7 @@ Click on another animal, but remember that you can only click on a animal once.
 Keep going to see if you can get all 20 without any repeat clicks
 
 ## Play the Game
-Click here to play: [Clicky Game] (https://mysterious-refuge-78849.herokuapp.com/)
+Click here to play: [Clicky Game](https://mysterious-refuge-78849.herokuapp.com/)
 
 ## Technologies Used
  * React
